@@ -1,0 +1,23 @@
+{
+  "name": "visitor-log",
+  "version": "1.0.0",
+  "description": "Logs visits to websites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltakapp/visitor-log.git"
+  },
+  "author": "Delta Kapp",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/deltakapp/visitor-log/issues"
+  },
+  "homepage": "https://github.com/deltakapp/visitor-log#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
